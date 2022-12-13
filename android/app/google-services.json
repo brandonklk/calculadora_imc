@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "744938158526",
+    "project_id": "calculadoraimc-51863",
+    "storage_bucket": "calculadoraimc-51863.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744938158526:android:1e56f784adc281bdfe61ef",
+        "android_client_info": {
+          "package_name": "org.edu.calculator_imc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744938158526-9u88ru6ctgrvpkuoikk7fnr1a2udccal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwYsAyuCB2xCgpf1ISIQpwX0IT32oP6Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744938158526-9u88ru6ctgrvpkuoikk7fnr1a2udccal.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "744938158526-sfvn8oecs2vn49nbqu60salujt86dnvv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.edu.calculatorImc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
